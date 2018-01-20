@@ -1,3 +1,6 @@
 [submodule "hive-api"]
 	path = hive-api
 	url = https://github.com/uoft-hive/hive-api
+[submodule "firebase"]
+	path = firebase
+	url = https://github.com/uoft-hive/firebase
